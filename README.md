@@ -2,9 +2,9 @@
 
 - 👀 I’m interested in transforming data into actionable insights, especially in finance and technology. With a background in actuarial science and experience in IT Finance, I’m passionate about data analysis, financial modeling, and automation.
 
-- 🌱 I’m currently learning advanced machine learning techniques and exploring ways to apply AI in finance.
+- I’m currently learning advanced machine learning techniques and exploring ways to apply AI in finance.
 
-- 💞️ I’m looking to collaborate on projects related to data-driven finance, automation, and innovative tech solutions. If you’re working on something exciting in these areas, feel free to reach out!
+- I’m looking to collaborate on projects related to data-driven finance, automation, and innovative tech solutions. If you’re working on something exciting in these areas, feel free to reach out!
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/francisco-puertos-rumayor) | [Email](mailto:paco_puertos11@hotmail.com)
 
